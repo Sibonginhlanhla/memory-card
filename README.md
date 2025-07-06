@@ -1,12 +1,27 @@
-# React + Vite
+# 🧠 Memory Card Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fun memory game built with React and Vite. Click on each card only once — if you click the same card twice, the game resets. Try to beat your best score!
 
-Currently, two official plugins are available:
+## 🚀 Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Live on Vercel](https://memory-card-iota-gray.vercel.app/) *(replace with your actual deployed URL)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎮 How to Play
+
+- Click on a card to earn points.
+- Do **not** click the same card twice.
+- Cards shuffle after every click.
+- The game resets if you repeat a card.
+- Try to set a new best score!
+
+---
+
+## 🛠️ Features
+
+- ✅ Built with **React 19** and **Vite**
+- ✅ Dynamic card shuffling
+- ✅ Score and best score tracking
+- ✅ Responsive card layout using Flexbox
+- ✅ ESLint configured for clean code
