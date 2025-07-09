@@ -4,7 +4,7 @@ A simple and fun memory game built with React and Vite. Click on each card only 
 
 ## 🚀 Demo
 
-👉 [Live on Vercel](https://memory-card-iota-gray.vercel.app/) *(replace with your actual deployed URL)*
+👉 [Live on Vercel](https://memory-card-iota-gray.vercel.app/) 
 
 ---
 
